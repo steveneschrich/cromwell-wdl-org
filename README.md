@@ -9,6 +9,6 @@ Note that [biowdl](https://biowdl.github.io/) and the [Broad Institute](https://
 - https://gatk.broadinstitute.org/hc/en-us/articles/360035890811
 
 
-- (backends.md)
-- (docker.md)
-- (reference_data.md)
+- [Backends](backends.md)
+- [Docker](docker.md)
+- [Reference Data](reference_data.md)
